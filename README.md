@@ -4,7 +4,7 @@ Convert feet, fractional inches in string format to a decimal foot format for us
 
 - Promps for Feet/Fractional Inches in string format
 
-![My image](http://raw.github.com/kmorin/FeetConverter/gh-pages/images/FC1.PNG)
+![My image](raw.github.com/kmorin/FeetConverter/gh-pages/images/FC1.PNG)
 
 - Outputs Decimal Feet
 
