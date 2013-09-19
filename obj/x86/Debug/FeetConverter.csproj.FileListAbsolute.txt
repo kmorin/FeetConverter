@@ -1,0 +1,6 @@
+c:\users\kmorin\documents\visual studio 2010\Projects\FeetConverter\FeetConverter\bin\Debug\FeetConverter.exe.config
+c:\users\kmorin\documents\visual studio 2010\Projects\FeetConverter\FeetConverter\bin\Debug\FeetConverter.exe
+c:\users\kmorin\documents\visual studio 2010\Projects\FeetConverter\FeetConverter\bin\Debug\FeetConverter.pdb
+c:\users\kmorin\documents\visual studio 2010\Projects\FeetConverter\FeetConverter\obj\x86\Debug\FeetConverter.exe
+c:\users\kmorin\documents\visual studio 2010\Projects\FeetConverter\FeetConverter\obj\x86\Debug\FeetConverter.pdb
+C:\Users\kmorin\Documents\Visual Studio 2010\Projects\FeetConverter\FeetConverter\obj\x86\Debug\FeetConverter.csprojResolveAssemblyReference.cache
