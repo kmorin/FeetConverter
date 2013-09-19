@@ -1,3 +1,3 @@
 #Readme FeetConverter
 
-![My image](kmorin.github.com/FeetConverter/images/FC1.png)
+![My image](../gh-pages/images/FC1.png)
